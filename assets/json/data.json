@@ -1,0 +1,73 @@
+{
+  "Global": {
+    "NewConfirmed": 92968,
+    "TotalConfirmed": 4710551,
+    "NewDeaths": 4236,
+    "TotalDeaths": 317564,
+    "NewRecovered": 56138,
+    "TotalRecovered": 1692554
+  },
+  "Countries": [
+    {
+      "Country": "Afghanistan",
+      "CountryCode": "AF",
+      "Slug": "afghanistan",
+      "NewConfirmed": 349,
+      "TotalConfirmed": 6402,
+      "NewDeaths": 15,
+      "TotalDeaths": 168,
+      "NewRecovered": 0,
+      "TotalRecovered": 745,
+      "Date": "2020-05-17T06:22:25Z"
+    },
+    {
+      "Country": "Angola",
+      "CountryCode": "AO",
+      "Slug": "angola",
+      "NewConfirmed": 0,
+      "TotalConfirmed": 48,
+      "NewDeaths": 0,
+      "TotalDeaths": 2,
+      "NewRecovered": 0,
+      "TotalRecovered": 17,
+      "Date": "2020-05-17T06:22:25Z"
+    },
+    {
+      "Country": "Antigua and Barbuda",
+      "CountryCode": "AG",
+      "Slug": "antigua-and-barbuda",
+      "NewConfirmed": 0,
+      "TotalConfirmed": 25,
+      "NewDeaths": 0,
+      "TotalDeaths": 3,
+      "NewRecovered": 0,
+      "TotalRecovered": 19,
+      "Date": "2020-05-17T06:22:25Z"
+    },
+    {
+      "Country": "Argentina",
+      "CountryCode": "AR",
+      "Slug": "argentina",
+      "NewConfirmed": 326,
+      "TotalConfirmed": 7805,
+      "NewDeaths": 7,
+      "TotalDeaths": 363,
+      "NewRecovered": 37,
+      "TotalRecovered": 2534,
+      "Date": "2020-05-17T06:22:25Z"
+    },
+    {
+      "Country": "Zimbabwe",
+      "CountryCode": "ZW",
+      "Slug": "zimbabwe",
+      "NewConfirmed": 0,
+      "TotalConfirmed": 42,
+      "NewDeaths": 0,
+      "TotalDeaths": 4,
+      "NewRecovered": 0,
+      "TotalRecovered": 13,
+      "Date": "2020-05-17T06:22:25Z"
+    }
+  ],
+  "Date": "2020-05-17T06:22:25Z"
+}
